@@ -3,3 +3,4 @@
 ## [Семинар 2](https://github.com/ignatizi/PIS/wiki/Семинар-2)
 ## [Семинар 3](https://github.com/ignatizi/PIS/wiki/Отчет-по-лабораторным-работам)
 ## [Реферат](https://github.com/ignatizi/PIS/wiki/Реферат)
+## [Диаграммы по теме ВКР](https://github.com/ignatizi/PIS/wiki/Диаграммы-по-теме-ВКР)
